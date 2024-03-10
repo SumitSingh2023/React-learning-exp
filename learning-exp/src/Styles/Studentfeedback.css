@@ -1,0 +1,53 @@
+.feed-sec{
+    width: 90%;
+    margin: auto;
+    
+}
+
+.feed-sec div h2{
+    font-size: 2.2rem;
+    font-weight: 500;
+    margin-bottom: 0.7rem;
+}
+
+.feed-sec div p{
+    color: rgb(103, 100, 100);
+    width: 75%;
+    margin-bottom: 2rem;
+
+}
+
+.text-arrow{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-arr{
+    display: flex;
+    align-items: center;
+    background-color:#F3F3F3;
+    padding: 5px 10px 5px 10px;
+    color: rgb(110, 109, 109);
+    font-weight: 500;
+    border-radius: 10px;
+    font-size: 1rem;
+    
+}
+
+.pic-sec{
+    display: flex;
+    border-radius: 20px;
+    
+}
+
+.star-text{
+    padding-left: 5rem;
+    background-color: #efeffe;
+    padding-top: 5rem;
+   
+}
+
+.star{
+    display: flex;
+    margin-bottom: 1rem;
+}

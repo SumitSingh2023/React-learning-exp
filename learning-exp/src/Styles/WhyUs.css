@@ -1,0 +1,67 @@
+.why-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 1.7rem;
+}
+
+
+
+.why-text :nth-child(1){
+    font-size: 2.2rem;
+    font-weight: 500;
+    width: 50%;
+    margin-bottom: 15px;
+}
+
+.why-text :nth-child(2){
+    width: 58%;
+    color: grey;
+    font-size: 1.1rem;
+    margin-bottom: 1.8rem;
+
+}
+
+.video-part video{
+    width: 80%;
+    border: 2px solid black;
+   
+    height: auto;
+}
+
+.video-part{
+    width: 90%;
+    display: flex;
+    border: 2px solid black;
+    align-items: center;
+    margin: auto;
+    padding: 0px 10px 0px 10px;
+   
+    
+}
+
+.text h1{
+    color: black;
+    font-weight: 600;
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+    
+}
+
+.text :nth-child(2){
+    color: rgb(113, 112, 112);
+    margin-bottom: 1.6rem;
+}
+
+.text :nth-child(3){
+    color: rgb(113, 112, 112);
+    margin-bottom: 1.6rem;
+}
+
+.getmorebtn{
+    background-color: rgb(250, 202, 11);
+    padding: 6px 16px 6px 16px;
+    border-radius: 23px;
+    font-size: 15px;
+}
