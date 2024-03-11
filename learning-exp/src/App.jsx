@@ -4,6 +4,9 @@ import CardSection from './Components/CardSection'
 import WhyUs from './Components/WhyUs'
 import ProgramCount from './Components/ProgramCount'
 import Studentfeedback from './Components/Studentfeedback'
+import ContactUs from './Components/ContactUs'
+import Footer from './Components/Footer'
+
 
 function App() {
  
@@ -14,6 +17,8 @@ function App() {
     <WhyUs/>
     <ProgramCount/>
     <Studentfeedback/>
+    <ContactUs/>
+    <Footer/>
     </>
   )
 }

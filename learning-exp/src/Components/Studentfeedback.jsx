@@ -42,8 +42,7 @@ const Studentfeedback = () => {
 
                 <p style={{color:"black",fontWeight:"500"}}>Product Manager. <span style={{color:"blue"}}>@Learning.Com</span></p>
             </div>
-            <div></div>
-            <div></div>
+            
         </div>
 
       </div>
