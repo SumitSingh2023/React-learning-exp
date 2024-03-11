@@ -33,7 +33,7 @@ const Header = () => {
               All Included In Your Subsscription
               </p> 
 
-              <button>Book Demo Class</button><span>Explore More --</span>
+              <button>Book Demo Class</button><span style={{color:"white"}}>Explore More --</span>
           </div>
 
           <div className='Video-sec'>
